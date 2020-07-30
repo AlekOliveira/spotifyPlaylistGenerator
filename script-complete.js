@@ -1,5 +1,5 @@
 
-//requisições estão desatualizadas desde 2016
+//estas requisições estão desatualizadas desde 2016
 
 const app = {};
 
