@@ -39,8 +39,16 @@ iframe {
 	border: none;
 }
 
+.main-footer {
+	min-height: 20vh;
+	background: linear-gradient(170deg, #000000,#454545);
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
 .main-container {
-	min-height: 100vh;
+	min-height: 80vh;
 	background: linear-gradient(170deg, #F47978,#F8BC4A);
 	display: flex;
 	flex-direction: column;
@@ -72,14 +80,15 @@ section,
 	font-size: 12px;
 }
 
+.main-footer {
+	color: #000000;
+}
+
 .main-container input {
 	/*background: rgba(255,255,255,0.2);*/
 	height: 50px;
 	border: 1px solid white;
 }
-
-
-
 .main-container input[type="search"] {	
 	border-radius: 30px 0px 0px 30px;
 	padding: 0 10px 0 10px;
