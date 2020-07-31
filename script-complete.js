@@ -1,5 +1,6 @@
 
-//estas requisições estão desatualizadas desde 2016
+//Exemplo de requisições
+//estão desatualizadas desde 2016 mas ainda podem ser uteis :D
 
 const app = {};
 
