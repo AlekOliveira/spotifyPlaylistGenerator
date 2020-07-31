@@ -1,2 +1,2 @@
 # Em andamento...
-Projeto em andamento. A ideia é permitir que o usuário informe suas bandas/artistas favoritos e a aplicação gere uma playlist utilizando a api do spotfy.
+Projeto em andamento. A ideia é permitir que o usuário informe suas bandas/artistas favoritos e a aplicação gere uma playlist utilizando a api do spotfy, disponibilizando um menu interarivo através de Embed.
