@@ -1,6 +1,6 @@
 //Nova implementação
 class APIController {
-
+    
     constructor() {
         this.clientId = '4f6e72b0c55a42818f3e02441edbc64b';
         this.clientSecret = '3300672efefb4033906e66c031cf947b';
@@ -87,7 +87,7 @@ class APIController {
    
 }
 
-
+/*
 
 async function executa() {
     const cot = new APIController();
@@ -95,7 +95,10 @@ async function executa() {
     console.log(cot.tokenID);
 }
 
-executa();
+executa();*/
+
+
+//console.log(axios.post('url', {Authorization: 'Basic ' + btoa('4f6e72b0c55a42818f3e02441edbc64b' + ':' + '3300672efefb4033906e66c031cf947b')}));
 
 
 
